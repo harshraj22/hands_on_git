@@ -4,6 +4,6 @@ Name : <insert your name here>
 - [ ] Merge Conflicts
     - [ ] Change1
 - [ ] Stash Commits && Ammend 
-    - [ ] Change1
-    - [ ] Change2
-    - [ ] Change3
+    - [x] Change1
+    - [x] Change2
+    - [x] Change3
