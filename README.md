@@ -7,11 +7,11 @@ This repo is ment to help you lay your hands on github and practice the things y
  * Create a markdown file having your name as file name in the newly created directory
  * Copy the contents from [template.md](./template/template.md) to your file
  * Proceed through the steps as said in various directories
-
- 1. [pullRequest](https://github.com/harshraj22/hands_on_git/tree/master/pullRequest)
- 2. [mergeConflicts](https://github.com/harshraj22/hands_on_git/tree/master/mergeConflicts)
- 3. [squash](https://github.com/harshraj22/hands_on_git/tree/master/squash)
- 4. [cherryPick](https://github.com/harshraj22/hands_on_git/tree/master/cherryPick)
+ 1. [fork](https://github.com/harshraj22/hands_on_git/tree/master/fork)
+ 2. [pullRequest](https://github.com/harshraj22/hands_on_git/tree/master/pullRequest)
+ 3. [mergeConflicts](https://github.com/harshraj22/hands_on_git/tree/master/mergeConflicts)
+ 4. [squash](https://github.com/harshraj22/hands_on_git/tree/master/squash)
+ 5. [cherryPick](https://github.com/harshraj22/hands_on_git/tree/master/cherryPick)
 
 <br/>
  Contributors : Add features and help with documentation.
