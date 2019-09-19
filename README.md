@@ -7,3 +7,15 @@ This repo is ment to help you lay your hands on github and practice the things y
  * Create a markdown file having your name as file name in the newly created directory
  * Copy the contents from [template.md](./template/template.md) to your file
  * Proceed through the steps as said in various directories
+
+<br/>
+
+ | Contributors | Github | Year |
+ | ------------ | ------ | ---- |
+ | Harsh Raj    | [harshraj22](https://github.com/harshraj22/) | 2018-2022 |
+
+<br/>
+
+ | Maintainers | Github | Year |
+ | ------------ | ------ | ---- |
+ | Harsh Raj    | [harshraj22](https://github.com/harshraj22/) | 2018-2022 |
