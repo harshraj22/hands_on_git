@@ -8,6 +8,7 @@
  * Finally push your local changes (along with your local branch to the remote repo) using ```git push -u origin <branch name> ```
 
 Go to website and make a pr and reference the issue.
+ * The maintainer is expected to merge once the issue has been referenced.
 
 ### Further reading 
 Link for further reading about pull request
