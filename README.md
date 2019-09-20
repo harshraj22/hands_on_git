@@ -1,6 +1,9 @@
 # hands_on_git
 This repo is ment to help you lay your hands on github and practice the things you've learnt.
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/harshraj22/hands_on_git/issues)
+[![HitCount](http://hits.dwyl.com/harshraj22/hands_on_git.svg)](http://hits.dwyl.com/harshraj22/hands_on_git)
+
 ### How to use:
  * [Fork](https://github.com/harshraj22/hands_on_git/tree/master/fork) the repo and clone it locally 
  * Create a unique named directory inside [users](./users) directory
