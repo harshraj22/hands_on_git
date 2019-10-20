@@ -5,7 +5,7 @@ This repo is ment to help you lay your hands on github and practice the things y
 [![HitCount](http://hits.dwyl.com/harshraj22/hands_on_git.svg)](http://hits.dwyl.com/harshraj22/hands_on_git)
 
 ### How to use:
- * [Fork](https://github.com/harshraj22/hands_on_git/tree/master/fork) the repo and clone it locally 
+ * [Fork and Clone](https://github.com/harshraj22/hands_on_git/tree/master/fork) the repo and clone it locally 
  * Create a unique named directory inside [users](./users) directory
  * Create a markdown file having your name as file name in the newly created directory
  * Copy the contents from [template.md](./template/template.md) to your file
