@@ -15,6 +15,7 @@ This repo is ment to help you lay your hands on github and practice the things y
  3. [mergeConflicts](https://github.com/harshraj22/hands_on_git/tree/master/mergeConflicts)
  4. [squash](https://github.com/harshraj22/hands_on_git/tree/master/squash)
  5. [cherryPick](https://github.com/harshraj22/hands_on_git/tree/master/cherryPick)
+ 6. [How To](https://github.com/harshraj22/hands_on_git/tree/master/howTo)
 
 <br/>
  Contributors : Add features and help with documentation.
