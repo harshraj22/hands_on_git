@@ -30,3 +30,6 @@
 #### I commited some files earlier. Now I want to add them to .gitignore, how to forget them being tracked ?
 - first add and commit .gitignore, then - ```git rm --cached <path-to-file>``` and then ```git add .``` [source](https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
 
+#### How to check all changes to a file ?
+- This is where you understand the value of good commit messages. use ```git log -p --name-only --oneline  <filename>```
+##### Find more on [this repo](https://github.com/git-tips/tips)
